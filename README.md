@@ -1,6 +1,6 @@
-Tinyshell Project 
+#Tinyshell Project 
 
-A small shell program which implements 2 commands - exit and history. 
+##A small shell program which implements 2 commands - exit and history. 
 
 1. Exit: Simply exits the shell
 2. History: Allows you to look at 5 most recently executed commands. 

@@ -10,15 +10,15 @@
 
 To run: 
 
-$ ./tinyshell
+`$ ./tinyshell`
 
 History: 
 
-$ history
-$ history -sbu 
+`$ history`
+`$ history -sbu`
 
 Exit: 
 
-$ exit
+`$ exit`
 
 Remaining commands to be run as per usual 
